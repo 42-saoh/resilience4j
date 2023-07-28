@@ -1,0 +1,3 @@
+rootProject.name = 'cloud'
+include 'server1'
+include 'server2'
